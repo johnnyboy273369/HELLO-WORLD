@@ -1,3 +1,4 @@
 # HELLO-WORLD
-MY FIRST REPOSITORY
-I'M JUST HERE TO LEARN ALL ABOUT AZURE
+This is a branch from my first repository.
+I am learing anything and everything I can to broaden my IT skillset.
+
